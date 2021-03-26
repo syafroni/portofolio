@@ -3,7 +3,7 @@
   "version": "1.9.0",
   "description": "Material Kit React. Coded by Creative Tim",
   "private": false,
-  "homepage": "https://syafroni.github.io/portofolio/"
+  "homepage": "https://syafroni.github.io/portofolio/",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.10.0",
